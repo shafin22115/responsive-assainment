@@ -1,0 +1,56 @@
+.nav-img{
+    width: 400px;
+}
+.section-hight{
+    height: 950px;
+}
+.top-text-section{
+    color: #fabe4c;
+    font-size: 60px;
+    
+}
+#top-text-section{
+    color:#363958;
+    font-size: 60px;
+}
+.botton-color{
+    background-color: #8ea825;
+}
+.section-haif-width img{
+    width: 100%;
+}
+.woman-jacket img{
+    height: 450px;
+    background-color: #f1f1f1;
+}
+.main-button{
+    background-color: #8ea825;
+    width: 200px;
+}
+
+.main-section{
+    margin-top: 50px;    
+}
+.header-color{
+    background-color: #fffbf0;
+}
+
+.man-section{
+border: none;
+}
+.main-img{
+    width: 10px;
+    font-size: 15px;
+    margin-top: 10px;
+    
+}
+.man-jacket img{
+    height: 450px;
+    background-color: #f1f1f1;
+}
+.last-part-card img{
+    height: 180px;
+}
+.last-part img{
+    width: 750px;
+}
