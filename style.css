@@ -1,5 +1,5 @@
 .nav-img{
-    width: 400px;
+    width: 300px;
 }
 .section-hight{
     height: 950px;
@@ -53,4 +53,7 @@ border: none;
 }
 .last-part img{
     width: 750px;
+}
+.h1-font{
+    color: #fabe4c;
 }
